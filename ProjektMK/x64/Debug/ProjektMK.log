@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(92,20): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(118,28): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(119,27): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(120,26): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(121,27): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(128,27): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(129,27): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(130,27): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(131,27): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(133,26): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(134,26): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(135,26): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(136,26): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(139,28): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(140,28): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(141,28): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(142,28): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(144,27): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(145,27): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(146,27): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(147,27): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(171,26): warning C4244: "argument": konwersja z "GLdouble" do "GLfloat", możliwa utrata danych
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(171,22): warning C4244: "argument": konwersja z "GLdouble" do "GLfloat", możliwa utrata danych
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(171,18): warning C4244: "argument": konwersja z "GLdouble" do "GLfloat", możliwa utrata danych
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(172,15): warning C4244: "argument": konwersja z "GLdouble" do "GLfloat", możliwa utrata danych
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(173,15): warning C4244: "argument": konwersja z "GLdouble" do "GLfloat", możliwa utrata danych
+C:\Users\katapultener\Desktop\ProjektMK\main.cpp(174,15): warning C4244: "argument": konwersja z "GLdouble" do "GLfloat", możliwa utrata danych
+  ProjektMK.vcxproj -> C:\Users\katapultener\Desktop\ProjektMK\x64\Debug\ProjektMK.exe
